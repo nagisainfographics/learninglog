@@ -1,6 +1,6 @@
 # learninglog
 
-これはaiファーストな、素敵なインフォグラフィックを創作するための学習ノートです。
+これはaiファーストな、素敵なインフォグラフィックを創作するための学習ノートです。  
 This is a study note for creating ai first nice infographic.
 
 ## この学習を始めた理由　/　Reasons for starting this learning
