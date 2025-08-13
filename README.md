@@ -14,6 +14,9 @@ This notebook is constantly being added to and updated as a Markdown file.
 ### markdowntips  
 [私がMarkdownでの記述をマスターしたい理由](https://github.com/nagisainfographics/learninglog/blob/main/markdowntips/whyuseit.md)
 
+### VSCodetips
+[VS Codeとは？そして私が使い始めた理由](https://github.com/nagisainfographics/learninglog/blob/main/VSCodetips/whatisthat.md)
+
 ## この学習を始めた理由　/　Reasons for starting this learning
 
 AIの進化、そしてCursorやChatGPTのAgentモードに代表される超進化によって、企業体においての全ての情報の取り扱いが一新する未来が想像されます。例えばPowerPointやGoogleスライド、Wordなど、資料作成において使われてきたツールはマークダウン形式に一新されると予想する人もいます。そうなった場合に全ての情報はGitHub/Cursorといったもので統合管理できることになり、Saasなど特定の製品は使われなくなるとも唱えられています。  
