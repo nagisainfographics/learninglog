@@ -12,7 +12,7 @@ This notebook is constantly being added to and updated as a Markdown file.
 [私にとってのGitHub](https://github.com/nagisainfographics/learninglog/blob/main/GitHubtips/aboutthatforme.md)
 
 ### markdowntips  
-[私がMarkdownでの記述をマスターしたい理由](https://github.com/nagisainfographics/learninglog/blob/main/markdowntips/whyuseit.md)
+[私がMarkdownでの記述をマスターせねばならぬ理由](https://github.com/nagisainfographics/learninglog/blob/main/markdowntips/whyuseit.md)
 
 ### VSCodetips
 [VS Codeとは？そして私が使い始めた理由](https://github.com/nagisainfographics/learninglog/blob/main/VSCodetips/whatisthat.md)
