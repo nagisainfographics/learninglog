@@ -5,7 +5,8 @@
 Markdown記法を開発したJohn Gruber氏は、自身のブログで下記のように紹介しています。
 
 > Markdown is a text-to-HTML conversion tool for web writers.
-> Markdown allows you to write using an easy-to-read, easy-to-write plain text format,  
+> Markdown allows you to write using an easy-to-read,  
+> easy-to-write plain text format,  
 > then convert it to structurally valid HTML.
 
     （日本語訳）Markdownは、ウェブライター向けのテキストからHTMLへの変換ツールです。  
@@ -28,4 +29,5 @@ Markdownはあくまでも**HTMLファイルを簡単に作成するためのも
 
 
 やはりAIフレンドリーな情報管理やデザイン設計の方法を編み出すには、HTMLの学習が必要だと私は認識しました。
+
 
