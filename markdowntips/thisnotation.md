@@ -21,5 +21,6 @@ Markdown記法についても[2004年開発当時に記載した文章](https://
 彼が実際にデザイナーとしての活動をしているのかどうかは不明ですが、彼はデザインについて深い哲学を持っていることは確かです。彼のPodcast[The Talk Show With John Gruber](https://podcasts.apple.com/jp/podcast/the-talk-show-with-john-gruber/id528458508)の説明文も「The director's commentary track for Daring Fireball. Long digressions on Apple,
 technology, design, movies, and more.」（訳：「『Daring Fireball』の監督によるコメンタリートラック。アップル、テクノロジー、デザイン、映画などに関する長めの脱線話が含まれています。」）と記載されています。
 
-彼のブログは普通に面白いのでこれからも読むつもりなのですが、私はデザインにも通じた彼がMarkdown記法を産み出したという事実は、何かを語っている気がしてなりません。
+彼のブログは普通に面白いのでこれからも読むつもりなのですが、私はデザインにも通じた彼がMarkdown記法を産み出したという事実は、何かを物語っている気がしてなりません。
+
 
