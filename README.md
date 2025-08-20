@@ -14,7 +14,8 @@ This notebook is constantly being added to and updated as a Markdown file.
 ### markdowntips  
 [私がMarkdownでの記述をマスターせねばならぬ理由](https://github.com/nagisainfographics/learninglog/blob/main/markdowntips/whyuseit.md)  
 [Markdown記法は誰が何のために作ったか](https://github.com/nagisainfographics/learninglog/blob/main/markdowntips/thisnotation.md)  
-[MarkdownファイルがGitHubでプレビューされるまでの仕組み](https://github.com/nagisainfographics/learninglog/blob/main/markdowntips/howpreviewed.md)
+[MarkdownファイルがGitHubでプレビューされるまでの仕組み](https://github.com/nagisainfographics/learninglog/blob/main/markdowntips/howpreviewed.md)  
+[Markdown記法はたぶんシンプルだけど、最初はこんなことに迷った](https://github.com/nagisainfographics/learninglog/blob/main/markdowntips/commonpitfalls.md)
 
 ### VSCodetips
 [VS Codeとは？そして私が使い始めた理由](https://github.com/nagisainfographics/learninglog/blob/main/VSCodetips/whatisthat.md)
